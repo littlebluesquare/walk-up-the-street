@@ -1,1 +1,1 @@
-# walk-up-the-street
+# Walk Up The Street (WUTS)
